@@ -1,3 +1,8 @@
+---
+description: >-
+  4,848 pixel and half-body OctoPeeps, claimable with an Octo Kiddo 2.0.
+---
+
 # Pixel OctoPeeps Kingdoms
 
 4,848 pixel and half-body OctoPeeps NFTs, generated programmatically from the source art of the collection that is now [Octo Kiddos 2.0](octo-kiddos-2.0.md).

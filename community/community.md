@@ -1,3 +1,8 @@
+---
+description: >-
+  Where the OctoPeeps community lives and how to join it.
+---
+
 # Community
 
 **OctoPeeps** began in February 2022 and has been building steadily ever since. Discord is where most of it happens: Raid Boss hunts, giveaways, raffles, the casino, votes on where the project goes next, and announcements first.

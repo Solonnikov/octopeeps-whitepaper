@@ -1,3 +1,8 @@
+---
+description: >-
+  OctoPeeps OG is the original collection of 1,000 hand-drawn NFTs on Polygon.
+---
+
 # OctoPeeps OG
 
 OctoPeeps is a collection of 1,000 NFTs living on the Polygon Blockchain, which is hand-drawn, programmatically, and randomly generated from 90+ assets. All OctoPeeps are stored as an ERC-721 token.

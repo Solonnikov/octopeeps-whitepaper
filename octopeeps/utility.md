@@ -1,3 +1,8 @@
+---
+description: >-
+  What holding an OctoPeeps NFT actually gets you: games, smart wallets, badges, community access and early mints.
+---
+
 # Utility
 
 We want to give our community value behind our cool NFTs. That's why OctoPeeps brings the following utilities:
@@ -6,17 +11,17 @@ We want to give our community value behind our cool NFTs. That's why OctoPeeps b
 
 Our on-chain casino runs on $FATH - Loot Cave, Coin Toss, Dice Den, Fortune Wheel and Derby Dash, plus a POL Fortune Wheel: <https://octopeeps.com/play>
 
-Raid Boss is our community boss hunt in Discord. Fight the boss with the crew, earn shards and $FATH rewards.
+[Raid Boss](../utilities/raid-boss.md) is our community boss hunt in Discord. Fight the boss with the crew, earn Abyssal Shards and $FATH rewards.
+
+[Peep Duel](../utilities/peep-duel.md) is the daily vote: two Kiddos go head to head and the server picks a winner.
 
 ### **Smart wallets and badges**
 
-Every Octo Kiddo 2.0 has its own ERC-6551 smart wallet that can hold NFTs and tokens of its own.
+Every Octo Kiddo 2.0 has its own ERC-6551 smart wallet that holds assets, swaps and sends tokens, and earns soulbound badges that can never leave it. See [Smart Wallets and Badges](../utilities/smart-wallets-and-badges.md).
 
-Your Kiddo earns soulbound badges - permanent, on-chain proof of what you have achieved in the ecosystem. Badges cannot be transferred out; they stay with the Kiddo forever: <https://octopeeps.com/dapps/tba>
+### **Our products**
 
-### **Bocto**
-
-$FATH pays for Bocto subscriptions: <https://bocto.octopeeps.com/en/pricing>
+$FATH pays for [Bocto](../products/bocto.md) subscriptions, and the team also builds [Bocto Gate](../products/bocto-gate.md), [Bocto VPN](../products/bocto-vpn.md) and [Octopin](../products/octopin.md).
 
 ### **Community and early access**
 

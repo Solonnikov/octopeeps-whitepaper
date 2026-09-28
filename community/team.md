@@ -1,3 +1,8 @@
+---
+description: >-
+  The people behind OctoPeeps.
+---
+
 # Team
 
 * [Yaroslav Solonnikov](https://www.linkedin.com/in/yaroslav-solonnikov/) is the OctoPeeps founder, from Ukraine. A developer with over a decade of web development experience, and a web3 and blockchain enthusiast.

@@ -1,3 +1,10 @@
+---
+description: >-
+  Octopin is IPFS pinning built for NFT communities, not enterprises. CIDs that
+  resolve on OpenSea, MetaMask and public gateways, unlimited bandwidth on every
+  tier, free plan around 2,000 NFTs.
+---
+
 # Octopin
 
 Octopin is our IPFS pinning service, built in 2026 for NFT communities rather than enterprises.

@@ -1,3 +1,8 @@
+---
+description: >-
+  $OCTO is the OctoPeeps Discord economy currency, earned through games and community activity.
+---
+
 # $OCTO
 
 Discord economy currency

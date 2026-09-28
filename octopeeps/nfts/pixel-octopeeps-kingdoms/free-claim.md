@@ -1,3 +1,8 @@
+---
+description: >-
+  How to claim a free Pixel OctoPeeps with your Octo Kiddo 2.0.
+---
+
 # Free Claim
 
 4,848 pixel and half-body OctoPeeps NFTs, generated programmatically from the source art of the collection that is now [Octo Kiddos 2.0](../octo-kiddos-2.0.md).

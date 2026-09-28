@@ -1,3 +1,8 @@
+---
+description: >-
+  $FATH is the OctoPeeps utility token on Polygon. Supply is permanently final: minting is disabled and contract ownership is renounced.
+---
+
 # $FATH
 
 **Fathom ($FATH) is the native utility token of the OctoPeeps ecosystem, deployed on the Polygon blockchain.**

@@ -1,3 +1,8 @@
+---
+description: >-
+  The original Octo Kiddos collection from March 2024. Finished and closed; the live collection is Octo Kiddos 2.0.
+---
+
 # Octo Kiddos
 
 **This is the original Octo Kiddos collection, minted in March 2024. It is finished and closed.** The live collection is [Octo Kiddos 2.0](octo-kiddos-2.0.md).

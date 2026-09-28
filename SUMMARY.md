@@ -24,10 +24,19 @@
 
 * [$FATH](utilities/usdfath.md)
 * [$OCTO](utilities/usdocto.md)
-* [NFT Staking (ended September 2026)](utilities/nft-staking-ended-september-2026.md)
+* [Raid Boss](utilities/raid-boss.md)
+* [Peep Duel](utilities/peep-duel.md)
+* [Smart Wallets and Badges](utilities/smart-wallets-and-badges.md)
 * [Raffle Market](utilities/raffle-market.md)
-* [Bocto](utilities/bocto.md)
-* [Octopin](utilities/octopin.md)
+* [NFT Staking (ended September 2026)](utilities/nft-staking-ended-september-2026.md)
+
+## Products
+
+* [Products](products/README.md)
+  * [Bocto](products/bocto.md)
+  * [Bocto Gate](products/bocto-gate.md)
+  * [Bocto VPN](products/bocto-vpn.md)
+  * [Octopin](products/octopin.md)
 
 ## Community
 

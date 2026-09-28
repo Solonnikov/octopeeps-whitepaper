@@ -1,3 +1,8 @@
+---
+description: >-
+  NFT staking ran until 25 September 2026, when the 100,000,000 $FATH mint cap was reached. A record of how it worked and how it was closed.
+---
+
 # NFT Staking (ended September 2026)
 
 **NFT staking has ended. This page is kept as a record of how it worked.**

@@ -1,3 +1,8 @@
+---
+description: >-
+  Octo Kiddos 2.0 is the live OctoPeeps collection, capped by community vote at 2,222, with an ERC-6551 smart wallet on every Kiddo.
+---
+
 # Octo Kiddos 2.0
 
 Octo Kiddos 2.0 is the live OctoPeeps collection on Polygon.

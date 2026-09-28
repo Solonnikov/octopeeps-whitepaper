@@ -1,3 +1,8 @@
+---
+description: >-
+  Special NFT airdrops for OctoPeeps holders.
+---
+
 # OctoPeeps Airdrops
 
 Special NFT airdrops for OctoPeeps holders

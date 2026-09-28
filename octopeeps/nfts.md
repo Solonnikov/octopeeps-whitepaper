@@ -1,3 +1,8 @@
+---
+description: >-
+  The OctoPeeps collections on Polygon: OctoPeeps OG, Octo Kiddos 2.0, Pixel OctoPeeps Kingdoms, Octo Kiddos and the airdrops.
+---
+
 # NFTs
 
 OctoPeeps collections are different - from the original hand-drawn OGs to the pixel spin-off and the cute Octo Kiddos.

@@ -1,3 +1,8 @@
+---
+description: >-
+  Buy raffle tickets with $FATH for a chance to win NFTs and whitelist spots.
+---
+
 # Raffle Market
 
 Win and buy exclusive NFTs using the ERC-20 $FATH token.
