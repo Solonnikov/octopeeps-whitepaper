@@ -6,3 +6,4 @@ The community is not a spectator audience. Holders voted the Octo Kiddos 2.0 sup
 
 * Website: <https://octopeeps.com>
 * Discord: <https://discord.gg/MfMTwyP6b9>
+* X: <https://x.com/OctoPeepsNFTs>
