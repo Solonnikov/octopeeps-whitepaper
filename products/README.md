@@ -6,7 +6,7 @@ description: >-
 
 # Products
 
-OctoPeeps is not only a collection. The team builds and runs software that is used well beyond our own community, and $FATH is accepted across it.
+OctoPeeps is not only a collection. The team builds and runs software that is used well beyond our own community. Bocto subscriptions can be paid in $FATH.
 
 * [Bocto](bocto.md) - Discord bot for web3 communities
 * [Bocto Gate](bocto-gate.md) - token gating for Telegram, on any chain

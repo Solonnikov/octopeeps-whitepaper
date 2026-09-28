@@ -3,8 +3,6 @@ description: >-
   Raid Boss is our automated Discord boss fight. A boss spawns on its own, the
   whole server fights it with buttons over a couple of days, and it drops POL,
   $FATH and NFTs when it dies.
-cover: ../.gitbook/assets/raid-boss.png
-coverY: 0
 ---
 
 # Raid Boss
