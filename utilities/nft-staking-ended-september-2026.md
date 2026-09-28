@@ -19,7 +19,7 @@ Every snapshotted balance was airdropped directly to holders - no claim step, no
 * **22,507,834.46 $FATH**
 * One transaction: <https://polygonscan.com/tx/0x25dec4da988f2652fb7a8608fbd2dcb061ddff3a735e0d7ed70ea318d114619d>
 
-Shortly afterwards the remaining unminted supply was sent to the burn address and $FATH contract ownership was renounced, making the supply permanently final. See [$FATH](usdfath.md) for details.
+Shortly afterwards the remaining unminted supply was sent to the burn address and $FATH contract ownership was renounced, making the supply permanently final. See [$FATH](fath.md) for details.
 
 ### What this means for holders
 

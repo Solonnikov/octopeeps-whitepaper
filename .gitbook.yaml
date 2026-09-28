@@ -3,3 +3,11 @@ root: ./
 structure:
   readme: README.md
   summary: SUMMARY.md
+
+redirects:
+  # Old GitBook slugs: "$" was slugified to "usd".
+  utilities/usdfath: utilities/fath.md
+  utilities/usdocto: utilities/octo.md
+  # Bocto and Octopin moved into the Products section.
+  utilities/bocto: products/bocto.md
+  utilities/octopin: products/octopin.md

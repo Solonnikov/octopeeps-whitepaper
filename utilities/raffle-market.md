@@ -23,7 +23,7 @@ To participate in our raffle market, you need to connect to the raffle DApp. Onc
 
 **How do I buy raffle tickets?**
 
-Tickets are bought with $FATH. Staking has ended, but $FATH is still earned by beating the [Raid Boss](raid-boss.md) in Discord, winning in the on-chain casino, and through community giveaways and campaigns. It can also be bought on QuickSwap. See [$FATH](usdfath.md).
+Tickets are bought with $FATH. Staking has ended, but $FATH is still earned by beating the [Raid Boss](raid-boss.md) in Discord, winning in the on-chain casino, and through community giveaways and campaigns. It can also be bought on QuickSwap. See [$FATH](fath.md).
 
 **How are winners chosen in a raffle market?**
 

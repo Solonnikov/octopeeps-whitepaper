@@ -22,8 +22,8 @@
 
 ## Utilities
 
-* [$FATH](utilities/usdfath.md)
-* [$OCTO](utilities/usdocto.md)
+* [$FATH](utilities/fath.md)
+* [$OCTO](utilities/octo.md)
 * [Raid Boss](utilities/raid-boss.md)
 * [Peep Duel](utilities/peep-duel.md)
 * [Smart Wallets and Badges](utilities/smart-wallets-and-badges.md)
