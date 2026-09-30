@@ -1,6 +1,6 @@
 ---
 description: >-
-  Octo Kiddos 2.0 is the live OctoPeeps collection on Polygon, with an ERC-6551 smart wallet on every Kiddo.
+  Octo Kiddos 2.0 is the live OctoPeeps collection, capped by community vote at 2,222, with an ERC-6551 smart wallet on every Kiddo.
 ---
 
 # Octo Kiddos 2.0
@@ -17,7 +17,7 @@ So the contract still reports its original name internally, while the collection
 
 ### Supply
 
-A community vote is under way on capping Octo Kiddos 2.0 at 2,222 rather than letting it run to the contract's maximum. The contract's own `maxSupply` reads 4,848 and can never be changed, so a cap would be enforced by closing the mint permanently once 2,222 is reached.
+The community voted to cap Octo Kiddos 2.0 at 2,222 rather than let it run to the contract's maximum. The contract's own `maxSupply` reads 4,848 and can never be changed, so the cap is enforced by closing the mint permanently once 2,222 is reached. The real, final supply is 2,222.
 
 ### Smart wallets and badges
 
