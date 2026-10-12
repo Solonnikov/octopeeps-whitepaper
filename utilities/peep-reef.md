@@ -11,7 +11,7 @@ Over the years OctoPeeps has grown into a whole ecosystem: $FATH, the Raffle Mar
 
 It is a little town under the sea. Every building is a real OctoPeeps feature, and every resident is a real Octo Kiddo or Octo Kiddo 2.0. It is not a game: it is a window into everything we have built, and the same live town for everyone who visits.
 
-<https://octopeeps.io/reef>
+<https://octopeeps.com/reef>
 
 ## Built in-house
 
