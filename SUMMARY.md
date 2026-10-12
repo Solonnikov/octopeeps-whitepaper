@@ -28,6 +28,7 @@
 * [Peep Duel](utilities/peep-duel.md)
 * [Smart Wallets and Badges](utilities/smart-wallets-and-badges.md)
 * [Raffle Market](utilities/raffle-market.md)
+* [Peep Reef](utilities/peep-reef.md)
 * [NFT Staking (ended September 2026)](utilities/nft-staking-ended-september-2026.md)
 
 ## Products
