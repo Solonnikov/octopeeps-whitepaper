@@ -13,6 +13,10 @@ It is a little town under the sea. Every building is a real OctoPeeps feature, a
 
 <https://octopeeps.io/reef>
 
+## Built in-house
+
+Peep Reef is our own world. The OctoPeeps team built it from scratch, and it runs on our own website like every other OctoPeeps page. It is not built on a metaverse platform such as Decentraland or The Sandbox, uses no outside game engine or hosted world service, and needs no extra account. The residents come from our own contracts, every Kiddo is drawn from our own trait art, and the places are our own features. Like any website it uses free open-source building blocks for drawing in the browser, but the world itself is ours.
+
 ## The buildings
 
 Tap a building and its roof lifts off. You see who is inside, meet the character who runs it, and get a button straight to the real feature.
