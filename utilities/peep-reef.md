@@ -30,13 +30,15 @@ Tap a building and its roof lifts off. You see who is inside, meet the character
 | Kelp Café | Pinch the barista crab | Where Kiddos hang out |
 | The Kwaken | - | Raid bosses in our Discord |
 
-Puff the pufferfish is the town crier and shouts the latest OctoPeeps news, and Shelby drives the Turtle Bus.
+Puff the pufferfish is the town crier and shouts the latest OctoPeeps news, and Shelby drives the Turtle Bus. The town's characters notice what Kiddos are doing: Pinch serves whoever walks up to the café counter, Sharky calls the duels. A "Wanted: Kwaken" board by the square leads to the raids too.
 
 ## The residents
 
 Every minted Kiddo lives in the reef, from both collections. Each one is a little 3D toy built from its own traits: its eyes, hat or hair, outfit and the item it holds, in the colours of its NFT art. The 1/1 Kiddos look like their characters too.
 
 About 24 Kiddos are in town at any moment. Every 5 minutes the Turtle Bus brings a few in and takes a few home, and a visit lasts about 30 minutes. While they are in town they grab a kelp latte, read at the school, shop, duel, cheer at the arena, nap in the park and chat with each other.
+
+Soft-staked Kiddos keep walking around town with a tag on their card. Kiddos 2.0 that are still hard-staked nap in giant clams in the Clam Beds, eight at a time, taking turns every hour.
 
 ## Find your Kiddo
 
