@@ -28,6 +28,8 @@ Tap a building and its roof lifts off. You see who is inside, meet the character
 | Bubble Arena | Sharky | Peep Duels |
 | Lucky Clam Arcade | Blinky the anglerfish | On-chain games |
 | Reef Post | Pip the postal fish | NFT wallets for Kiddos 2.0 |
+| Bocto Workshop | Bocto the bot | [Bocto](../products/bocto.md), our Discord bot |
+| Octopin Depot | Pinny the porcupinefish | [Octopin](../products/octopin.md), where the Kiddos' metadata is pinned |
 | Shell School | Professor Inkwell | Kiddo Profiles |
 | Kiddo Hatchery | Nanny Jelly | Octo Kiddos 2.0 |
 | Clam Beds | Old Barnacle | Staking history (staking has ended; hard-staked Kiddos still nap here) |
