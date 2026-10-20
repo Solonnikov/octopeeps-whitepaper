@@ -9,6 +9,6 @@ description: >-
 
 Each Octo Kiddo 2.0 allows one pixel claim. Once a pixel has been claimed against a Kiddo, that Kiddo cannot be used to claim again.
 
-You need at least one [Octo Kiddo 2.0](https://opensea.io/collection/octo-kiddos-2) to claim.
+You need at least one [Octo Kiddo 2.0](https://opensea.io/collection/octokiddos-v2) to claim.
 
 **Claim for FREE here:** <https://octopeeps.com/dapps/mint/pixel-octopeeps-kingdoms>

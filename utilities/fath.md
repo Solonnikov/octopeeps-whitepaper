@@ -29,7 +29,6 @@ This is a quirk of the contract, not hidden supply. The 50,000,000 minted at dep
 
 ### What $FATH is used for
 
-* Minting NFTs - Octo Kiddos 2.0 can be minted with $FATH
 * The on-chain casino - Loot Cave, Coin Toss, Dice Den, Fortune Wheel and Derby Dash all run on $FATH: <https://octopeeps.com/play>
 * Raid Boss - community boss hunts in Discord, with $FATH rewards
 * Bocto - pay for your subscription in $FATH: <https://bocto.octopeeps.com/en/pricing>
