@@ -2,7 +2,8 @@
 description: >-
   Raid Boss is our automated Discord boss fight. A boss spawns on its own, the
   whole server fights it with buttons over a couple of days, and it drops POL,
-  $FATH, NFTs and a trophy NFT for the Slayer when it dies. Holders only.
+  $FATH, NFTs and a trophy NFT for the Slayer when it dies. Anyone can watch, verified
+  holders fight.
 ---
 
 # Raid Boss
@@ -13,7 +14,7 @@ No gas and no transaction to join. You fight with buttons in the #octo-raids cha
 
 ### Who can play
 
-Raid Boss is for holders. The channel is open to members with the verified-holder role: hold an OctoPeeps NFT, join our Discord and verify your wallet, and #octo-raids opens.
+Anyone in our Discord can watch the hunt in #octo-raids. Fighting is for holders: you need the verified-holder role, so hold an OctoPeeps NFT, join our Discord and verify your wallet, and the attack buttons are yours.
 
 Anyone can follow the hunt on [octopeeps.com/raids](https://octopeeps.com/raids): the boss that is up right now with its live HP, the rules, every boss with its loot table and trophy, the Hall of Slayers and the history of past hunts.
 
