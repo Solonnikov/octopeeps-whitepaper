@@ -2,14 +2,20 @@
 description: >-
   Raid Boss is our automated Discord boss fight. A boss spawns on its own, the
   whole server fights it with buttons over a couple of days, and it drops POL,
-  $FATH and NFTs when it dies.
+  $FATH, NFTs and a trophy NFT for the Slayer when it dies. Holders only.
 ---
 
 # Raid Boss
 
 Raid Boss is our automated boss-fight game in Discord. A boss spawns on its own at a random time, the whole server fights it together over a couple of days, and it drops loot when it dies.
 
-No wallet connection, no gas, no transaction to join. You fight with buttons in a Discord channel.
+No gas and no transaction to join. You fight with buttons in the #octo-raids channel of our Discord.
+
+### Who can play
+
+Raid Boss is for holders. The channel is open to members with the verified-holder role: hold an OctoPeeps NFT, join our Discord and verify your wallet, and #octo-raids opens.
+
+Anyone can follow the hunt on [octopeeps.com/raids](https://octopeeps.com/raids): the boss that is up right now with its live HP, the rules, every boss with its loot table and trophy, the Hall of Slayers and the history of past hunts.
 
 ### How a fight works
 
@@ -30,8 +36,15 @@ Every slot rolls independently, and any of them can roll nothing:
 * **POL** to the Slayer, whoever lands the killing blow
 * **$FATH** to the top damage dealers
 * **An Octo Kiddo NFT** to a random fighter who landed at least three hits
+* **A trophy NFT** to the Slayer, see below
 
 Rewards are paid out by hand from the community treasury. The bot rolls the loot and announces winners; it holds no keys and moves no funds on its own.
+
+### Trophies
+
+Every boss leaves a trophy NFT behind when it dies, and the Slayer keeps it. Each boss has its own trophy, from The Kraken's Amber Eye to The Megalodon's Tooth. Trophies are never sold and never minted publicly; seasonal bosses' trophies can only be won in their season.
+
+Trophies are ERC-1155 tokens 68 and up on the [OctoPeeps Airdrops](../octopeeps/nfts/octopeeps-airdrops.md) contract on Polygon. The full list is on [octopeeps.com/raids](https://octopeeps.com/raids).
 
 ### Abyssal Shards
 
@@ -50,5 +63,7 @@ The game has grown well past hit-the-boss:
 * **Downed and revive** - go down in a fight and the crew can bring you back
 * **Seasons** - seasonal bosses with their own named seasons and art
 * **Secret bosses** - rare ones that only turn up occasionally, including a community-requested one
+
+Follow the hunt: <https://octopeeps.com/raids>
 
 Fighting happens in Discord: <https://discord.gg/MfMTwyP6b9>

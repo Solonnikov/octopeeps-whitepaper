@@ -34,7 +34,7 @@ Tap a building and its roof lifts off. You see who is inside, meet the character
 | Kiddo Hatchery | Nanny Jelly | Octo Kiddos 2.0 |
 | Clam Beds | Old Barnacle | Staking history (staking has ended; hard-staked Kiddos still nap here) |
 | Kelp Café | Pinch the barista crab | Where Kiddos hang out |
-| The Kwaken | - | Raid bosses in our Discord |
+| The Kwaken | - | [Raid bosses](raid-boss.md) in our Discord, followed on [octopeeps.com/raids](https://octopeeps.com/raids) |
 
 Puff the pufferfish is the town crier and shouts the latest OctoPeeps news, and Shelby drives the Turtle Bus. The town's characters notice what Kiddos are doing: Pinch serves whoever walks up to the café counter, Sharky calls the duels. A "Wanted: Kwaken" board by the square leads to the raids too.
 
