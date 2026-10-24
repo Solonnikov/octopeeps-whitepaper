@@ -5,12 +5,15 @@ description: >-
 
 # $FATH
 
+<figure><img src="../.gitbook/assets/fath-coin.png" alt="The $FATH coin logo" width="160"><figcaption></figcaption></figure>
+
 **Fathom ($FATH) is the native utility token of the OctoPeeps ecosystem, deployed on the Polygon blockchain.**
 
 * Symbol: $FATH
 * Contract: `0xFc5B2a8947DFd3f7BD2ffE11e97238240aF5F868`
 * Total ever created: 150,000,000 $FATH
 * Minting: permanently disabled
+* Logo and brand kit: <https://octopeeps.com/brand#fath>
 
 ### The supply is final
 
@@ -31,7 +34,7 @@ This is a quirk of the contract, not hidden supply. The 50,000,000 minted at dep
 
 * The on-chain casino - Loot Cave, Coin Toss, Dice Den, Fortune Wheel and Derby Dash all run on $FATH: <https://octopeeps.com/play>
 * Raid Boss - community boss hunts in Discord, with $FATH rewards
-* Bocto - pay for your subscription in $FATH: <https://bocto.octopeeps.com/en/pricing>
+* Bocto - pay for your subscription in $FATH: <https://bocto.app/en/pricing>
 * Badges - the FATH Millionaire badge for holders of 1,000,000 or more: <https://octopeeps.com/dapps/tba>
 * Raffle Market - buy raffle tickets
 
