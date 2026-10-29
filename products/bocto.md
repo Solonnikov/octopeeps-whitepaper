@@ -19,6 +19,10 @@ One subscription per server unlocks the Pro tier of every Bocto plugin, for **$9
 
 Bocto also runs community payouts straight from Discord: tipping, rain, airdrops and raffles, with payouts to verified external wallets. The Guard plugin adds cross-server user flagging on top of moderation.
 
+### Task Manager
+
+A task board for small teams, right inside Discord. Create, assign and complete tasks with slash commands or from the dashboard, and Bocto posts every update to your task channel. Free servers can add 2 team members, Bocto Pro raises that to 10.
+
 ### Links
 
 * Website: <https://bocto.app>
