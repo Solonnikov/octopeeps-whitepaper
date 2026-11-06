@@ -44,7 +44,7 @@ Staking has ended, but $FATH is still earned by beating the Raid Boss in Discord
 
 ### How to buy $FATH
 
-* QuickSwap, deepest liquidity: [FATH / POL](https://dapp.quickswap.exchange/swap?type=best&from=ETH&to=0xFc5B2a8947DFd3f7BD2ffE11e97238240aF5F868&chainId=137)
+* QuickSwap, deepest liquidity: [FATH / POL](https://dapp.quickswap.exchange/swap?type=v3&from=ETH&to=0xFc5B2a8947DFd3f7BD2ffE11e97238240aF5F868&chainId=137&version=v3)
 * Any Polygon DEX aggregator - 1inch, Jumper, OKX DEX
 * Chart and liquidity: [DexScreener](https://dexscreener.com/polygon/0xFc5B2a8947DFd3f7BD2ffE11e97238240aF5F868)
 
