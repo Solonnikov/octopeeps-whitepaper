@@ -19,6 +19,10 @@ One subscription per server unlocks the Pro tier of every Bocto plugin, for **$9
 
 Bocto also runs community payouts straight from Discord: tipping, rain, airdrops and raffles, with payouts to verified external wallets. The Guard plugin adds cross-server user flagging on top of moderation.
 
+### Personal Bocto
+
+Bocto is not only for servers. Anyone can add Bocto to their own Discord account and use the `/bocto` command in any server, DM or group chat, even where Bocto is not installed. The first personal feature is the wallet: check your balance, get your deposit address, tip anyone and withdraw to your own wallet. A person who is tipped for the first time gets a Claim button, and no wallet is created and no funds move until they click it. More personal tools will follow.
+
 ### Task Manager
 
 A task board for small teams, right inside Discord. Create, assign and complete tasks with slash commands or from the dashboard, and Bocto posts every update to your task channel. Free servers can add 2 team members, Bocto Pro raises that to 10.
