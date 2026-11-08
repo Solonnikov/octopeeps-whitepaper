@@ -17,7 +17,7 @@ One subscription per server unlocks the Pro tier of every Bocto plugin, for **$9
 
 ### Token Tools
 
-Bocto also runs community payouts straight from Discord: tipping, rain, airdrops and raffles, with payouts to verified external wallets. The Guard plugin adds cross-server user flagging on top of moderation.
+Bocto also runs community payouts straight from Discord: tipping, rain, airdrops and raffles, with payouts to verified external wallets. Free on every plan, server admins can also switch on `/price` for any coin's price and `/gas` for what a transfer costs on each chain right now, shown privately or shared in the channel. The Guard plugin adds cross-server user flagging on top of moderation.
 
 ### Personal Bocto
 
