@@ -21,7 +21,7 @@ Bocto also runs community payouts straight from Discord: tipping, rain, airdrops
 
 ### Personal Bocto
 
-Bocto is not only for servers. Anyone can add Bocto to their own Discord account and use the `/bocto` command in any server, DM or group chat, even where Bocto is not installed. The first personal feature is the wallet: check your balance, get your deposit address, tip anyone and withdraw to your own wallet. A person who is tipped for the first time gets a Claim button, and no wallet is created and no funds move until they click it. You can also look up any coin's price, 24h change, market cap and volume with `/bocto price`, and see what a simple transfer costs on each supported chain right now with `/bocto gas`. More personal tools will follow.
+Bocto is not only for servers. Anyone can add Bocto to their own Discord account and use the `/bocto` command in any server, DM or group chat, even where Bocto is not installed. The first personal feature is the wallet: check your balance, get your deposit address, tip anyone and withdraw to your own wallet. A person who is tipped for the first time gets a Claim button, and no wallet is created and no funds move until they click it. You can also look up any coin's price, 24h change, market cap and volume with `/bocto price`, and see what a simple transfer costs on each supported chain right now with `/bocto gas`. With `/bocto watch` Bocto keeps an eye on one of your verified EVM wallets on Ethereum, Base, Polygon, BNB Chain and Arbitrum, and sends you a DM when tokens, NFTs or coins arrive. You choose what to watch and a minimum value, and spam tokens are filtered out. More personal tools will follow.
 
 ### Task Manager
 
