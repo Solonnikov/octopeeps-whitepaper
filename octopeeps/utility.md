@@ -21,7 +21,7 @@ Every Octo Kiddo 2.0 has its own ERC-6551 smart wallet that holds assets, swaps 
 
 ### **Our products**
 
-$FATH pays for [Bocto](../products/bocto.md) subscriptions, and the team also builds [Bocto Gate](../products/bocto-gate.md), [Bocto VPN](../products/bocto-vpn.md) and [Octopin](../products/octopin.md).
+$FATH pays for [Bocto](../products/bocto.md) subscriptions, and every $FATH paid for Bocto Pro is burned. The team also builds [Bocto Gate](../products/bocto-gate.md), [Bocto VPN](../products/bocto-vpn.md) and [Octopin](../products/octopin.md).
 
 ### **Community and early access**
 

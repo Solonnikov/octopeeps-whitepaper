@@ -34,9 +34,13 @@ This is a quirk of the contract, not hidden supply. The 50,000,000 minted at dep
 
 * The on-chain casino - Loot Cave, Coin Toss, Dice Den, Fortune Wheel and Derby Dash all run on $FATH: <https://octopeeps.com/play>
 * Raid Boss - community boss hunts in Discord, with $FATH rewards
-* Bocto - pay for Bocto Pro in $FATH: <https://bocto.app/en/pricing>
+* Bocto - pay for Bocto Pro in $FATH, and every $FATH paid is burned: <https://bocto.app/en/pricing>
 * Badges - the FATH Millionaire badge for holders of 1,000,000 or more: <https://octopeeps.com/dapps/tba>
 * Raffle Market - buy raffle tickets
+
+### Bocto Pro payments are burned
+
+Every $FATH paid for Bocto Pro is sent to the burn address `0x000000000000000000000000000000000000dEaD`, where nobody, including the team, can ever move it. Each server that pays for Pro in $FATH takes those tokens out of circulation for good. Card and other crypto payments are not affected. Every burn will be listed here with its transaction.
 
 ### How to earn $FATH
 

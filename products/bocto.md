@@ -9,11 +9,11 @@ description: >-
 
 Bocto is our Discord bot for web3 communities. It delivers automated NFT updates, secure token-gated roles and smart moderation across multiple blockchains and marketplaces, including OpenSea and MagicEden. The NFT Tracker posts mints, sales and listings, and on OpenSea it also posts offers with wallet signals that flag likely bots, so holders can see lowball bot offers for what they are.
 
-It is a product of the OctoPeeps team, and **$FATH is accepted for subscriptions**.
+It is a product of the OctoPeeps team, and **$FATH is accepted for subscriptions**. Every $FATH paid for Bocto Pro is burned.
 
 ### Bocto Pro
 
-One subscription per server unlocks the Pro tier of every Bocto plugin, for **$9 a month or $90 a year**. Pay by card, or in crypto including $FATH, for a month or up to a year at a time. Everything that was free stays free. Pro servers can also give the bot their own name and avatar, shown on every message it posts in that server.
+One subscription per server unlocks the Pro tier of every Bocto plugin, for **$9 a month or $90 a year**. Pay by card, or in crypto including $FATH, for a month or up to a year at a time. Every $FATH paid for Pro is sent to the burn address, see [$FATH](../utilities/fath.md). Everything that was free stays free. Pro servers can also give the bot their own name and avatar, shown on every message it posts in that server.
 
 ### Token Tools
 
